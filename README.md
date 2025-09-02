@@ -1,5 +1,6 @@
-# Jupyter-Notebook
-This notebook applies descriptive statistics to a Walmart sales dataset to gain insights
+# Data Science projects
 
-It was an assignment that I worked on in excel and I am implementing as well with jupyter notebook.
-Feel free to go through
+Notebooks in this repository explore data science practices from data preparation, cleaning, and applying exploratory 
+and descriptive statitics to uncover insights and improve decison making. 
+
+Skills: Python, Excel, Jupyter Notebook, data visualization. 
